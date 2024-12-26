@@ -6,3 +6,5 @@
 * Do the spheres with equations $x^2 + y^2 + z^2 = 1$ and $x^2 + y^2 + z^2 = 2$ have any common points?
 * What curve in space is formed by the intersection of the sphere $x^2 + y^2 + z^2 = 1$ with the sphere $(x-1)^2 + y^2 + z^2 = 1$? Find the equation of this curve.
 * Write the equation of the tangent plane to the paraboloid $z=(x-1)^2+y^2+1$ at point $P=(1,0,1)$.
+
+![image](https://github.com/user-attachments/assets/cce6ac4e-ad53-45fb-9c03-72242a7b924a)
