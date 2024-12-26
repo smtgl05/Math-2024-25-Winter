@@ -12,3 +12,11 @@
 * The plane intersects the coordinate axes at points $A(2, 0, 0)$, $B(0, 3, 0)$, and $C(0, 0, 4)$. Find the equation of the plane.
 * Calculate the angle between the plane $x + y + z = 1$ and the plane $x = 0$ (i.e., the $yz$ plane).
 * Find the vector perpendicular to the plane $x + y + z = 1$.
+
+
+
+![image](https://github.com/user-attachments/assets/d8795467-c68c-45b0-9ed5-3e2455d6f425)
+![image](https://github.com/user-attachments/assets/dcbf8264-d575-4b16-8325-c29aba852f2f)
+
+
+I had a hard time with this question, I think my answers are not correct.
