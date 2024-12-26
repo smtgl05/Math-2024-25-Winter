@@ -15,8 +15,20 @@
 
 
 
-![image](https://github.com/user-attachments/assets/d8795467-c68c-45b0-9ed5-3e2455d6f425)
-![image](https://github.com/user-attachments/assets/dcbf8264-d575-4b16-8325-c29aba852f2f)
+* ![image](https://github.com/user-attachments/assets/a45bbf3e-a5bc-4ec8-9c70-abe1f2b61afa)
 
+*![image](https://github.com/user-attachments/assets/21b78583-5f5d-4029-860a-47fcbc9d11db)
 
-I had a hard time with this question, I think my answers are not correct.
+*![image](https://github.com/user-attachments/assets/a7324f55-d46f-4afd-8d19-2afaf765f1e3)
+
+*![image](https://github.com/user-attachments/assets/cb1d502f-ffae-4140-89cf-cc69edffbc36)
+
+*![image](https://github.com/user-attachments/assets/df3944e5-1f83-476d-a0c1-fead6dffe457)
+
+*![image](https://github.com/user-attachments/assets/6f39d7da-fc86-4ab2-9617-d5afbbf33b06)
+
+![image](https://github.com/user-attachments/assets/0c573ccd-eed1-4559-ba53-cc240c3125c1)
+
+*![image](https://github.com/user-attachments/assets/f2b08884-f9ad-4edf-943b-dfdf46e9ba2a)
+
+*![image](https://github.com/user-attachments/assets/40dab5ae-daeb-4ff4-bb32-587f117bfcbc)
