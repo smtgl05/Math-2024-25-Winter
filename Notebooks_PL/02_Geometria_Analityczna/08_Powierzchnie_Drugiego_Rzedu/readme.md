@@ -1,1 +1,0 @@
-# 08_Powierzchnie_Drugiego_Rzedu
